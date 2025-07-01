@@ -1,4 +1,4 @@
-# 📊 Data Growth Analyst using SQL
+# 📊 E-Commerce Data Growth Analysis using SQL
 
 This repository contains my completed SQL-based case study for a Data Growth Analyst position. The goal of the project is to analyze customer behavior and lifetime value using an e-commerce orders dataset. All analysis is performed in **Google Colab** using **SQL syntax via `pandasql`** and `pandas`.
 
