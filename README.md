@@ -53,7 +53,9 @@ For questions, feel free to connect:
 
 ---
 
-## 📄 License
+## 🔒 License
 
+Copyright (c) 2025 Fnu Gitanjali. All Rights Reserved.  
+This profile and its content (including text, images, and media) may not be copied, reused, or distributed without written permission.
 
 
