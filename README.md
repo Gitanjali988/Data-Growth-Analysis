@@ -43,14 +43,6 @@ This repository contains my completed SQL-based case study. The goal of the proj
 
 ---
 
-## 📥 How to Use
-
-1. Clone or download this repo.
-2. Upload `orders.csv` to your Google Colab session.
-3. Open `Data_Analyst_Case_Study.ipynb` in Colab and run the cells.
-4. Download results via provided export buttons or recreate your own cohort and CLV analysis.
-
----
 
 ## 📬 Contact
 
